@@ -1,6 +1,6 @@
 import sys
 import logging
-import logger
+import src.logger
 
 # custom message whenever error is raised
 def error_message_detail(error, error_detail:sys):
